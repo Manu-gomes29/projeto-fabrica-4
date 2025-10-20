@@ -1,8 +1,3 @@
-# ordenar_bois.py
-# 🐂 Ordenador de Bois da Fazenda - Projeto simples em Python
-# Autor: Seu Nome
-# Licença: MIT
-
 # --- Entrada de dados ---
 print("🐂 Bem-vindo ao Ordenador de Bois da Fazenda Rio Claro!\n")
 
